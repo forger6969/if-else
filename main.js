@@ -44,4 +44,3 @@ else if (Number(vopros === '1')) {
 } else { 
     alert('Bunday hafta kuni yoq')
 }
-
