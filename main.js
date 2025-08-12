@@ -39,7 +39,7 @@ else if (Number(vopros === '1')) {
     alert('Bu haftaning 5 kuni juma')
 } else if (Number(vopros === '6')) {
     alert('Bu haftaning 6 kuni shanba')
-} else if (Number(vopros === '2')) {
+} else if (Number(vopros === '7')) {
     alert('Bu haftaning 7 kuni yakshanab')
 }
 
