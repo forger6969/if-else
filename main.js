@@ -41,5 +41,7 @@ else if (Number(vopros === '1')) {
     alert('Bu haftaning 6 kuni shanba')
 } else if (Number(vopros === '7')) {
     alert('Bu haftaning 7 kuni yakshanab')
+} else { 
+    alert('Bunday hafta kuni yoq')
 }
 
